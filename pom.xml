@@ -1,8 +1,5 @@
 
-    <groupId>com.example</groupId>
-    <artifactId>simple-java-app</artifactId>
-    <version>1.0</version>
-    <packaging>jar</packaging> <!-- JAR packaging -->
+  
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
