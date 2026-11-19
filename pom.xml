@@ -4,8 +4,7 @@
 
 
 
-                <configuration>
-                    <archive>
+            
                         <manifest>
                             <mainClass>com.example.App</mainClass> <!-- Main class entry -->
                         </manifest>
